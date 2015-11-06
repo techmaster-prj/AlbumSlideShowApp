@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyAlbumSlideshow</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="fast_play">Fast play</string>
+    <string name="my_album">My album</string>
+    <string name="create_album">Create album</string>
+    <string name="shared_album">Shared album</string>
+    <string name="information">Information</string>
+    <string name="exit">Exit</string>
+    <string name="choose_img_folder">Choose image folder</string>
+    <string name="background_music">Background music</string>
+    <string name="add_effect">Add effect</string>
+    <string name="delay_time">Delay time</string>
+    <string name="title_activity_fast_play_screen">FastPlayScreen</string>
+    <string name="title_activity_my_album_screen">MyAlbumScreen</string>
+    <string name="title_activity_create_album_screen">CreateAlbumScreen</string>
+    <string name="title_activity_shared_album_screen">SharedAlbumScreen</string>
+    <string name="title_activity_information_screen">InformationScreen</string>
+    <string name="title_activity_directory_explorer">DirectoryExplorer</string>
+
+</resources>
