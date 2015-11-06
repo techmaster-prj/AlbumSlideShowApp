@@ -1,2 +1,2 @@
 # AlbumSlideShowApp
-Song play
+Song play app (Nguyen Quang Huy)
